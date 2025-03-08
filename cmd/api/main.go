@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/joao-vitor-felix/social-app-api/internal/env"
+	"github.com/joao-vitor-felix/social-api/internal/env"
 	"github.com/joho/godotenv"
 )
 

@@ -1,4 +1,4 @@
-module github.com/joao-vitor-felix/social-app-api
+module github.com/joao-vitor-felix/social-api
 
 go 1.23.3
 
